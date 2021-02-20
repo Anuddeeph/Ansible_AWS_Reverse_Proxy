@@ -1,0 +1,10 @@
+region: ap-south-1
+instance_type: t2.micro
+image: ami-08e0ca9924195beba
+vpc_subnet_id: subnet-0ecad70c1783cb8f6
+security_group: sg-0f5f29eeb7ad93cd2
+
+webserver_key_name: ansiblekey
+webserver_count: 1
+
+
